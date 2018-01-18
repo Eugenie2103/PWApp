@@ -1,5 +1,5 @@
 body{
-  background-color: #edeff2;
+  background-color: #e3e4e5;
   font-family: Lato;
 }
 
@@ -8,5 +8,5 @@ article{
 }
 
 img{
-  height: 300px;
+  width: 80%;
 }
